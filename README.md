@@ -1,1 +1,0 @@
-# uzmakiran15.github.io
