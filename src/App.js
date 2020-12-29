@@ -9,7 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
           Hello UK first app.
-          Lab is great.
+          Lab is great.<br>
           My second attempttt--
           
         </p>
